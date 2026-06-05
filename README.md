@@ -1,7 +1,7 @@
 # East Greenwich Data Center — Community Campaign Website
 
-A clean, responsive one-page advocacy site to oppose a proposed data center in
-East Greenwich. Built with plain HTML and CSS
+clean responsive one-page advocacy site to oppose a proposed data center in
+East Greenwich. Built with HTML and CSS
 
 ## Files
 - `index.html` — page content and structure
